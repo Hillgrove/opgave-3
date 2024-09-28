@@ -42,12 +42,8 @@ font-weight: bold;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }
 
-.teaching-card a {
-    text-decoration: none; /* Optional, if you prefer no underline */
-}
-
 .teaching-card a:hover {
-    color: #66b2ff; /* Lighter blue on hover for a nice accent */
+    color: #66b2ff;
 }
 
 .social-icons a {
